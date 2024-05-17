@@ -1,4 +1,4 @@
-#Face Recognition Attendance System
+# Face Recognition Attendance System:
 The Face Recognition Attendance System is designed to automate the process of tracking attendance using facial recognition technology.
 
 Features:
